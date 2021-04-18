@@ -1,0 +1,23 @@
+{
+  "name": "99_starterkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasDeprund/starterkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasDeprund/starterkit/issues"
+  },
+  "homepage": "https://github.com/jonasDeprund/starterkit#readme",
+  "devDependencies": {
+    "sass": "^1.32.10"
+  }
+}
